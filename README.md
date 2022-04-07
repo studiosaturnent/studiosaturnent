@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Simone! I have an Associate from Georgia State and currently working towards my Bachelor Degree in Cyber-Security at Kennesaw State.
+- 👋 Hi, I’m Simone! I have an A.s in Computer Science from Georgia State and currently working towards my Bachelor Degree in Cyber-Security at Kennesaw State University.
 
-- 👀 I’m interested in building layouts and landing pages for applications, products, concepts, and ideas.
+- 👀 I’m very interested in building layouts and landing pages for applications, products, concepts, and ideas.
 
 - 🌱 I’m currently learning React & Angular for Front-End and fleshing out my understanding of .Net Core & C# for Back-End
 
